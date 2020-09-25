@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/liamcoffey/git/personal/MvcClient/MvcClient.csproj": {}
+  },
+  "projects": {
+    "/Users/liamcoffey/git/personal/MvcClient/MvcClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/liamcoffey/git/personal/MvcClient/MvcClient.csproj",
+        "projectName": "MvcClient",
+        "projectPath": "/Users/liamcoffey/git/personal/MvcClient/MvcClient.csproj",
+        "packagesPath": "/Users/liamcoffey/.nuget/packages/",
+        "outputPath": "/Users/liamcoffey/git/personal/MvcClient/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/liamcoffey/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/parkbee/auth/9f293770-e895-4a5d-a9eb-0357d17cbf1e/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
