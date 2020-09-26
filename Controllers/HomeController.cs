@@ -1,9 +1,9 @@
 ﻿using System.Diagnostics;
+using AdventureWorks.MVC.FrontEnd.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using MvcClient.Models;
 
-namespace MvcClient.Controllers
+namespace AdventureWorks.MVC.FrontEnd.Controllers
 {
     public class HomeController : Controller
     {
