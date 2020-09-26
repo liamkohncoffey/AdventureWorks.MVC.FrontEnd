@@ -107,7 +107,7 @@ namespace MvcClient
             // - Chrome on iOS 12 for iPhone, iPod Touch, iPad
             // All of which are broken by SameSite=None, because they use the iOS networking
             // stack.
-            if (userAgent.Contains("CPU iPhone OS 12") ||
+            if (userAgent.Contains("CPUiPhone OS 12") ||
                 userAgent.Contains("iPad; CPU OS 12"))
             {
                 return true;
@@ -129,7 +129,7 @@ namespace MvcClient
             // and none in this range require it.
             // Note: this covers some pre-Chromium Edge versions, 
             // but pre-Chromium Edge does not require SameSite=None.
-            if (userAgent.Contains("Chrome/5") || userAgent.Contains("Chrome/6") || userAgent.Contains("Chrome/8M"))
+            if (userAgent.Contains("Chrome/5") || userAgent.Contains("Chrome/6") || userAgent.Contains("Chrome/8"))
             {
                 return true;
             }

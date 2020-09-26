@@ -13,6 +13,10 @@ namespace MvcClient.Controllers
         {
             _logger = logger;
         }
+        public IActionResult Logout()
+        {
+            return SignOut("Cookies", "oidc");
+        }
 
         public IActionResult Index()
         {
