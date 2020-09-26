@@ -1,0 +1,175 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AdventureWorks.Domain/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/AdventureWorks.Domain.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AdventureWorks.Domain.dll": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "RestEase/1.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.1/RestEase.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/RestEase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdventureWorks.Domain/1.0.0": {
+      "sha512": "ikWUFnFeisj3gs9bSLxeENIpWBwweoSgPmjrb5dV2Siri5Db2zcRnvp0fDyy3980veBJ/JtesGYa7qsIO6zQTg==",
+      "type": "package",
+      "path": "adventureworks.domain/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        "adventureworks.domain.1.0.0.nupkg.sha512",
+        "adventureworks.domain.nuspec",
+        "lib/netcoreapp3.1/AdventureWorks.Domain.dll"
+      ]
+    },
+    "Newtonsoft.Json/11.0.1": {
+      "sha512": "pNN4l+J6LlpIvHOeNdXlwxv39NPJ2B5klz+Rd2UQZIx30Squ5oND1Yy3wEAUoKn0GPUj6Yxt9lxlYWQqfZcvKg==",
+      "type": "package",
+      "path": "newtonsoft.json/11.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.11.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec"
+      ]
+    },
+    "RestEase/1.5.0": {
+      "sha512": "m5QAGoHEHmE7F3yyvzkwhxFeFuZiUoKoCvGw2iQLfRY962Rc9HPuKHeNkiVLlK5cZLX7j5RzL1QP4wqpMrcE5Q==",
+      "type": "package",
+      "path": "restease/1.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icon.png",
+        "lib/net45/RestEase.dll",
+        "lib/net45/RestEase.xml",
+        "lib/netstandard1.1/RestEase.dll",
+        "lib/netstandard1.1/RestEase.xml",
+        "lib/netstandard2.0/RestEase.dll",
+        "lib/netstandard2.0/RestEase.xml",
+        "lib/netstandard2.1/RestEase.dll",
+        "lib/netstandard2.1/RestEase.xml",
+        "restease.1.5.0.nupkg.sha512",
+        "restease.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "AdventureWorks.Domain >= 1.0.0",
+      "RestEase >= 1.5.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/liamcoffey/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.Client/AdventureWorks.Client.csproj",
+      "projectName": "AdventureWorks.Client",
+      "projectPath": "/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.Client/AdventureWorks.Client.csproj",
+      "packagesPath": "/Users/liamcoffey/.nuget/packages/",
+      "outputPath": "/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.Client/obj/",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "/Users/liamcoffey/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "/Users/liamcoffey/git/personal/nuget": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/parkbee/auth/9f293770-e895-4a5d-a9eb-0357d17cbf1e/api/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "AdventureWorks.Domain": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
+          "RestEase": {
+            "target": "Package",
+            "version": "[1.5.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

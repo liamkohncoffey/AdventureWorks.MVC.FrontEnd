@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.MVC.Frontend/AdventureWorks.MVC.FrontEnd.csproj",
-    "projectName": "AdventureWorks.MVC.FrontEnd",
-    "projectPath": "/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.MVC.Frontend/AdventureWorks.MVC.FrontEnd.csproj",
-    "outputPath": "/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.MVC.Frontend/obj/",
+    "projectUniqueName": "/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.Client/AdventureWorks.Client.csproj",
+    "projectName": "AdventureWorks.Client",
+    "projectPath": "/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.Client/AdventureWorks.Client.csproj",
+    "outputPath": "/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.Client/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -19,11 +19,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "projectReferences": {
-          "/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.Client/AdventureWorks.Client.csproj": {
-            "projectPath": "/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.Client/AdventureWorks.Client.csproj"
-          }
-        }
+        "projectReferences": {}
       }
     },
     "warningProperties": {
@@ -35,15 +31,11 @@
   "frameworks": {
     "netcoreapp3.1": {
       "dependencies": {
-        "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+        "AdventureWorks.Domain": {
           "target": "Package",
-          "version": "[3.1.8, )"
+          "version": "[1.0.0, )"
         },
         "RestEase": {
-          "target": "Package",
-          "version": "[1.5.0, )"
-        },
-        "RestEase.HttpClientFactory": {
           "target": "Package",
           "version": "[1.5.0, )"
         }
@@ -59,9 +51,6 @@
       "assetTargetFallback": true,
       "warn": true,
       "frameworkReferences": {
-        "Microsoft.AspNetCore.App": {
-          "privateAssets": "none"
-        },
         "Microsoft.NETCore.App": {
           "privateAssets": "all"
         }

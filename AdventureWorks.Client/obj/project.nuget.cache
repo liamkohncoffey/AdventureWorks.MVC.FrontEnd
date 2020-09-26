@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PqK0kMrWwyyjiaffxEjnxSW6yMTIRBsyZIXvlrhLF7UViXpxLCov+3lrtYuGJ/w+wYk3+oIChN+8IycAsDDMZg==",
+  "success": true,
+  "projectFilePath": "/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.Client/AdventureWorks.Client.csproj",
+  "expectedPackageFiles": [
+    "/Users/liamcoffey/.nuget/packages/adventureworks.domain/1.0.0/adventureworks.domain.1.0.0.nupkg.sha512",
+    "/Users/liamcoffey/.nuget/packages/newtonsoft.json/11.0.1/newtonsoft.json.11.0.1.nupkg.sha512",
+    "/Users/liamcoffey/.nuget/packages/restease/1.5.0/restease.1.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

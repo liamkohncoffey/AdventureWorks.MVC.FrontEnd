@@ -20,156 +20,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0eb4b3d7-1041-4677-9f1d-d37f8387f8d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.AdventureWorks.MVC.FrontEnd.dir/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.AdventureWorks.MVC.FrontEnd.dir/.idea/.idea.AdventureWorks.MVC.FrontEnd.dir.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.AdventureWorks.MVC.FrontEnd.dir/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.AdventureWorks.MVC.FrontEnd.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.AdventureWorks.MVC.FrontEnd.dir/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.AdventureWorks.MVC.FrontEnd.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.AdventureWorks.MVC.FrontEnd.dir/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.AdventureWorks.MVC/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.AdventureWorks.MVC/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.Views.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.Views.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.RazorCoreGenerate.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.RazorTargetAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.RazorTargetAssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.TagHelpers.input.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.TagHelpers.output.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.Views.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.Views.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.csproj.CopyComplete" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/staticwebassets/AdventureWorks.FrontEnd.StaticWebAssets.Manifest.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/staticwebassets/AdventureWorks.MVC.FrontEnd.StaticWebAssets.Manifest.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/staticwebassets/AdventureWorks.MVC.FrontEnd.StaticWebAssets.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventureWorks.MVC.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventureWorks.MVC.FrontEnd.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/AdventureWorks.MVC.FrontEnd.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/Controllers/HomeController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/ErrorViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/Models/ErrorViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/Views/Home/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Home/Privacy.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/Views/Home/Privacy.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Shared/Error.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/Views/Shared/Error.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/Shared/_ValidationScriptsPartial.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/Views/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/_ViewImports.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/Views/_ViewImports.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/_ViewStart.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/Views/_ViewStart.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.Views.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.Views.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.OpenIdConnect.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/netcoreapp3.1/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/AdventureWorks.FrontEnd.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/AdventureWorks.FrontEnd.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/AdventureWorks.FrontEnd.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/AdventureWorks.FrontEnd.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/AdventureWorks.FrontEnd.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/AdventureWorks.FrontEnd.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/AdventureWorks.MVC.FrontEnd.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/AdventureWorks.MVC.FrontEnd.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/AdventureWorks.MVC.FrontEnd.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/AdventureWorks.MVC.FrontEnd.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/AdventureWorks.MVC.FrontEnd.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/AdventureWorks.MVC.FrontEnd.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.RazorAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.RazorAssemblyInfo.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.RazorAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.RazorAssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.RazorCoreGenerate.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.RazorCoreGenerate.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.RazorTargetAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.RazorTargetAssemblyInfo.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.RazorTargetAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.RazorTargetAssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.TagHelpers.input.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.TagHelpers.input.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.TagHelpers.output.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.TagHelpers.output.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.Views.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.Views.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.csproj.CopyComplete" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.csproj.CopyComplete" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.FrontEnd.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.RazorAssemblyInfo.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.RazorAssemblyInfo.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.RazorAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.RazorAssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/staticwebassets/AdventureWorks.FrontEnd.StaticWebAssets.Manifest.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/netcoreapp3.1/staticwebassets/AdventureWorks.FrontEnd.StaticWebAssets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/staticwebassets/AdventureWorks.FrontEnd.StaticWebAssets.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/MvcClient.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/MvcClient.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/MvcClient.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/MvcClient.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/MvcClient.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/MvcClient.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/css/site.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/js/site.js" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/js/site.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/bootstrap/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery-validation/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/jquery-validation/LICENSE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery-validation/dist/additional-methods.js" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/jquery-validation/dist/additional-methods.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery-validation/dist/jquery.validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/jquery-validation/dist/jquery.validate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/jquery/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery/dist/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/jquery/dist/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery/dist/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/jquery/dist/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/lib/jquery/dist/jquery.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/wwwroot/lib/jquery/dist/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventureWorks.Client/AdventureWorks.Client.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventureWorks.Client/IAdventureWorksApiService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventureWorks.Client/obj/AdventureWorks.Client.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventureWorks.Client/obj/AdventureWorks.Client.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventureWorks.Client/obj/AdventureWorks.Client.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventureWorks.Client/obj/Debug/netcoreapp3.1/AdventureWorks.Client.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventureWorks.Client/obj/Debug/netcoreapp3.1/AdventureWorks.Client.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventureWorks.Client/obj/Debug/netcoreapp3.1/AdventureWorks.Client.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventureWorks.Client/obj/Debug/netcoreapp3.1/AdventureWorks.Client.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventureWorks.Client/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventureWorks.Client/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdventureWorks.Client/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AdventureWorks.MVC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AdventureWorks.MVC/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/AdventureWorks.MVC.FrontEnd.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/AdventureWorks.MVC.FrontEnd.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/Controllers/HomeController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/AdventureWorks.MVC.FrontEnd.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/AdventureWorks.MVC.FrontEnd.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/AdventureWorks.MVC.FrontEnd.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/AdventureWorks.MVC.FrontEnd.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.dll" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventureWorks.MVC.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AdventureWorks.MVC.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +63,22 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/AdventureWorks.MVC.Frontend/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/0826348C-58CA-45EC-9800-D08B93A17535/6/AuthenticationMiddleware.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AdventureWorks.MVC.Frontend/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/D0418650-4192-493B-B19E-A11674CF3C25/17/StartupLoader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/317143AB-BC6A-4FAC-85CD-A61C805193B7/3/AuthorizationMiddleware.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AdventureWorks.Client/IAdventureWorksApiService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AdventureWorks.MVC.Frontend/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AdventureWorks.Client/Class1.cs" />
+        <option value="$PROJECT_DIR$/AdventureWorks.Client/IAdventureWorksApiService.cs" />
+        <option value="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/Startup.cs" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1i2wPolJu68xv20ObcdbAcjYQxz" />
   <component name="ProjectViewState">
@@ -189,9 +86,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3502036" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30017453" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
     <configuration name="AdventureWorks.MVC.FrontEnd: MvcClient" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
@@ -220,7 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601118973687</updated>
-      <workItem from="1601118979085" duration="309000" />
+      <workItem from="1601118979085" duration="6933000" />
     </task>
     <servers />
   </component>
@@ -244,21 +149,141 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1750" height="419" key="GridCell.Tab.0.bottom" timestamp="1601119029034">
+    <state width="418" height="464" key="DebuggerActiveHint" timestamp="1601125791427">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="419" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1601119029034" />
-    <state width="1750" height="419" key="GridCell.Tab.0.center" timestamp="1601119029033">
+    <state width="418" height="464" key="DebuggerActiveHint/0.0.1792.1120@0.0.1792.1120" timestamp="1601125791427" />
+    <state width="1750" height="419" key="GridCell.Tab.0.bottom" timestamp="1601127819058">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="419" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1601119029033" />
-    <state width="1750" height="419" key="GridCell.Tab.0.left" timestamp="1601119029032">
+    <state width="1750" height="419" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1601127819058" />
+    <state width="1750" height="419" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1601122812324" />
+    <state width="1750" height="419" key="GridCell.Tab.0.center" timestamp="1601127819055">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="419" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1601119029032" />
-    <state width="1750" height="419" key="GridCell.Tab.0.right" timestamp="1601119029034">
+    <state width="1750" height="419" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1601127819055" />
+    <state width="1750" height="419" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1601122812321" />
+    <state width="1750" height="419" key="GridCell.Tab.0.left" timestamp="1601127819051">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="419" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1601119029034" />
+    <state width="1750" height="419" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1601127819051" />
+    <state width="1750" height="419" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1601122812320" />
+    <state width="1750" height="419" key="GridCell.Tab.0.right" timestamp="1601127819057">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1601127819057" />
+    <state width="1750" height="419" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1601122812323" />
+    <state width="1750" height="419" key="GridCell.Tab.1.bottom" timestamp="1601127825413">
+      <screen x="0" y="23" width="1792" height="1020" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1601127818353" />
+    <state width="1750" height="419" key="GridCell.Tab.1.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1601122812329" />
+    <state width="1750" height="419" key="GridCell.Tab.1.bottom/0.23.1792.1020@0.23.1792.1020" timestamp="1601127825413" />
+    <state width="1750" height="419" key="GridCell.Tab.1.center" timestamp="1601127825411">
+      <screen x="0" y="23" width="1792" height="1020" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1601127818350" />
+    <state width="1750" height="419" key="GridCell.Tab.1.center/0.23.1792.1017@0.23.1792.1017" timestamp="1601122812327" />
+    <state width="1750" height="419" key="GridCell.Tab.1.center/0.23.1792.1020@0.23.1792.1020" timestamp="1601127825411" />
+    <state width="1750" height="419" key="GridCell.Tab.1.left" timestamp="1601127825410">
+      <screen x="0" y="23" width="1792" height="1020" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1601127818348" />
+    <state width="1750" height="419" key="GridCell.Tab.1.left/0.23.1792.1017@0.23.1792.1017" timestamp="1601122812325" />
+    <state width="1750" height="419" key="GridCell.Tab.1.left/0.23.1792.1020@0.23.1792.1020" timestamp="1601127825410" />
+    <state width="1750" height="419" key="GridCell.Tab.1.right" timestamp="1601127825412">
+      <screen x="0" y="23" width="1792" height="1020" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1601127818351" />
+    <state width="1750" height="419" key="GridCell.Tab.1.right/0.23.1792.1017@0.23.1792.1017" timestamp="1601122812328" />
+    <state width="1750" height="419" key="GridCell.Tab.1.right/0.23.1792.1020@0.23.1792.1020" timestamp="1601127825412" />
+    <state width="1750" height="419" key="GridCell.Tab.2.bottom" timestamp="1601127818358">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.2.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1601127818358" />
+    <state width="1750" height="419" key="GridCell.Tab.2.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1601122812336" />
+    <state width="1750" height="419" key="GridCell.Tab.2.center" timestamp="1601127818356">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.2.center/0.0.1792.1120@0.0.1792.1120" timestamp="1601127818356" />
+    <state width="1750" height="419" key="GridCell.Tab.2.center/0.23.1792.1017@0.23.1792.1017" timestamp="1601122812331" />
+    <state width="1750" height="419" key="GridCell.Tab.2.left" timestamp="1601127818354">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.2.left/0.0.1792.1120@0.0.1792.1120" timestamp="1601127818354" />
+    <state width="1750" height="419" key="GridCell.Tab.2.left/0.23.1792.1017@0.23.1792.1017" timestamp="1601122812330" />
+    <state width="1750" height="419" key="GridCell.Tab.2.right" timestamp="1601127818357">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.2.right/0.0.1792.1120@0.0.1792.1120" timestamp="1601127818357" />
+    <state width="1750" height="419" key="GridCell.Tab.2.right/0.23.1792.1017@0.23.1792.1017" timestamp="1601122812335" />
+    <state width="1750" height="419" key="GridCell.Tab.3.bottom" timestamp="1601127818363">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.3.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1601127818363" />
+    <state width="1750" height="419" key="GridCell.Tab.3.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1601122812342" />
+    <state width="1750" height="419" key="GridCell.Tab.3.center" timestamp="1601127818361">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.3.center/0.0.1792.1120@0.0.1792.1120" timestamp="1601127818361" />
+    <state width="1750" height="419" key="GridCell.Tab.3.center/0.23.1792.1017@0.23.1792.1017" timestamp="1601122812339" />
+    <state width="1750" height="419" key="GridCell.Tab.3.left" timestamp="1601127818360">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.3.left/0.0.1792.1120@0.0.1792.1120" timestamp="1601127818360" />
+    <state width="1750" height="419" key="GridCell.Tab.3.left/0.23.1792.1017@0.23.1792.1017" timestamp="1601122812337" />
+    <state width="1750" height="419" key="GridCell.Tab.3.right" timestamp="1601127818362">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.3.right/0.0.1792.1120@0.0.1792.1120" timestamp="1601127818362" />
+    <state width="1750" height="419" key="GridCell.Tab.3.right/0.23.1792.1017@0.23.1792.1017" timestamp="1601122812341" />
+    <state width="1750" height="419" key="GridCell.Tab.4.bottom" timestamp="1601127818368">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.4.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1601127818368" />
+    <state width="1750" height="419" key="GridCell.Tab.4.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1601122812346" />
+    <state width="1750" height="419" key="GridCell.Tab.4.center" timestamp="1601127818366">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.4.center/0.0.1792.1120@0.0.1792.1120" timestamp="1601127818366" />
+    <state width="1750" height="419" key="GridCell.Tab.4.center/0.23.1792.1017@0.23.1792.1017" timestamp="1601122812344" />
+    <state width="1750" height="419" key="GridCell.Tab.4.left" timestamp="1601127818365">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.4.left/0.0.1792.1120@0.0.1792.1120" timestamp="1601127818365" />
+    <state width="1750" height="419" key="GridCell.Tab.4.left/0.23.1792.1017@0.23.1792.1017" timestamp="1601122812343" />
+    <state width="1750" height="419" key="GridCell.Tab.4.right" timestamp="1601127818367">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="419" key="GridCell.Tab.4.right/0.0.1792.1120@0.0.1792.1120" timestamp="1601127818367" />
+    <state width="1750" height="419" key="GridCell.Tab.4.right/0.23.1792.1017@0.23.1792.1017" timestamp="1601122812345" />
+    <state x="496" y="299" key="Rider.ProjectTemplateDialog.Size" timestamp="1601119824384">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="299" key="Rider.ProjectTemplateDialog.Size/0.0.1792.1120@0.0.1792.1120" timestamp="1601119824384" />
+    <state width="896" height="560" key="XDebugger.FullValuePopup" timestamp="1601128044672">
+      <screen x="0" y="23" width="1792" height="1020" />
+    </state>
+    <state width="896" height="560" key="XDebugger.FullValuePopup/0.0.1792.1120@0.0.1792.1120" timestamp="1601127877400" />
+    <state width="896" height="560" key="XDebugger.FullValuePopup/0.23.1792.1020@0.23.1792.1020" timestamp="1601128044672" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AdventureWorks.MVC.Frontend/Controllers/HomeController.cs</url>
+          <line>37</line>
+          <properties documentPath="$PROJECT_DIR$/AdventureWorks.MVC.Frontend/Controllers/HomeController.cs" initialLine="37">
+            <startOffsets>
+              <option value="1280" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1301" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

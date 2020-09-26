@@ -86,3 +86,8 @@
 /Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.dll
 /Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.pdb
 /Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.MVC.Frontend/obj/Debug/netcoreapp3.1/AdventureWorks.MVC.FrontEnd.genruntimeconfig.cache
+/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.Domain.dll
+/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/RestEase.dll
+/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.Client.dll
+/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.Client.pdb
+/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/RestEase.HttpClientFactory.dll

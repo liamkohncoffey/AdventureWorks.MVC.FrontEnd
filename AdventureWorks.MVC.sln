@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWorks.MVC.FrontEnd", "AdventureWorks.MVC.Frontend\AdventureWorks.MVC.FrontEnd.csproj", "{9E857F1A-983C-4F12-999F-C99DEA330E86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWorks.Client", "AdventureWorks.Client\AdventureWorks.Client.csproj", "{307396EE-4C6F-4C2D-975D-AF16DA5B1F04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{9E857F1A-983C-4F12-999F-C99DEA330E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E857F1A-983C-4F12-999F-C99DEA330E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E857F1A-983C-4F12-999F-C99DEA330E86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{307396EE-4C6F-4C2D-975D-AF16DA5B1F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307396EE-4C6F-4C2D-975D-AF16DA5B1F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307396EE-4C6F-4C2D-975D-AF16DA5B1F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307396EE-4C6F-4C2D-975D-AF16DA5B1F04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
