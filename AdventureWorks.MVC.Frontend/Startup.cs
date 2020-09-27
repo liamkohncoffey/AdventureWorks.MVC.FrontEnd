@@ -45,7 +45,6 @@ namespace AdventureWorks.MVC.FrontEnd
                 {
                     options.Authority = "http://localhost:5000";
                     options.ClientId = "mvc";
-                    //for development purpose only
                     options.RequireHttpsMetadata = false;
                     options.ClientSecret = "secret";
                     options.ResponseType = "code";
