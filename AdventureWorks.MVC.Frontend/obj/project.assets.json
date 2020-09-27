@@ -292,6 +292,19 @@
         "runtime": {
           "bin/placeholder/AdventureWorks.Client.dll": {}
         }
+      },
+      "AdventureWorks.Identity.Client/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "RestEase": "1.5.0"
+        },
+        "compile": {
+          "bin/placeholder/AdventureWorks.Identity.Client.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AdventureWorks.Identity.Client.dll": {}
+        }
       }
     }
   },
@@ -761,11 +774,17 @@
       "type": "project",
       "path": "../AdventureWorks.Client/AdventureWorks.Client.csproj",
       "msbuildProject": "../AdventureWorks.Client/AdventureWorks.Client.csproj"
+    },
+    "AdventureWorks.Identity.Client/1.0.0": {
+      "type": "project",
+      "path": "../AdventureWorks.Identity.Client/AdventureWorks.Identity.Client.csproj",
+      "msbuildProject": "../AdventureWorks.Identity.Client/AdventureWorks.Identity.Client.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "AdventureWorks.Client >= 1.0.0",
+      "AdventureWorks.Identity.Client >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.OpenIdConnect >= 3.1.8",
       "RestEase >= 1.5.0",
       "RestEase.HttpClientFactory >= 1.5.0"
@@ -803,6 +822,9 @@
           "projectReferences": {
             "/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.Client/AdventureWorks.Client.csproj": {
               "projectPath": "/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.Client/AdventureWorks.Client.csproj"
+            },
+            "/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.Identity.Client/AdventureWorks.Identity.Client.csproj": {
+              "projectPath": "/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.Identity.Client/AdventureWorks.Identity.Client.csproj"
             }
           }
         }

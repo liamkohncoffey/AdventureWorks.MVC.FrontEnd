@@ -91,3 +91,5 @@
 /Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.Client.dll
 /Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.Client.pdb
 /Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/RestEase.HttpClientFactory.dll
+/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.Identity.Client.dll
+/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.MVC.Frontend/bin/Debug/netcoreapp3.1/AdventureWorks.Identity.Client.pdb

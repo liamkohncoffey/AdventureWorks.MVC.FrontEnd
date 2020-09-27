@@ -22,6 +22,9 @@
         "projectReferences": {
           "/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.Client/AdventureWorks.Client.csproj": {
             "projectPath": "/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.Client/AdventureWorks.Client.csproj"
+          },
+          "/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.Identity.Client/AdventureWorks.Identity.Client.csproj": {
+            "projectPath": "/Users/liamcoffey/git/personal/AdventureWorks.MVC.FrontEnd/AdventureWorks.Identity.Client/AdventureWorks.Identity.Client.csproj"
           }
         }
       }

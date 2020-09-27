@@ -25,6 +25,7 @@
       "AdventureWorks.MVC.FrontEnd/1.0.0": {
         "dependencies": {
           "AdventureWorks.Client": "1.0.0",
+          "AdventureWorks.Identity.Client": "1.0.0",
           "Microsoft.AspNetCore.Authentication.OpenIdConnect": "3.1.8",
           "RestEase": "1.5.0",
           "RestEase.HttpClientFactory": "1.5.0",
@@ -529,6 +530,17 @@
         },
         "compile": {
           "AdventureWorks.Client.dll": {}
+        }
+      },
+      "AdventureWorks.Identity.Client/1.0.0": {
+        "dependencies": {
+          "RestEase": "1.5.0"
+        },
+        "runtime": {
+          "AdventureWorks.Identity.Client.dll": {}
+        },
+        "compile": {
+          "AdventureWorks.Identity.Client.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -2393,6 +2405,11 @@
       "hashPath": "system.security.cryptography.cng.4.5.0.nupkg.sha512"
     },
     "AdventureWorks.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdventureWorks.Identity.Client/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

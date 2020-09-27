@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
+using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using AdventureWorks.Client;
@@ -28,17 +29,13 @@ namespace AdventureWorks.MVC.FrontEnd.Controllers
         public async Task<IActionResult> Index(CancellationToken cancellationToken)
         {
             var token = await HttpContext.GetTokenAsync("access_token");
-            Console.WriteLine(token);
-            try
-            {
-                var test = await _adventureWorksApiService.GetUserAccount(1, $"Bearer {token}", cancellationToken);
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine(e);
-            }
+            var userClaims = User.Claims.ToList();
+            var userId = Guid.Parse(userClaims.First(c => c.Type == "sub").Value);
+            var userAccount = await _adventureWorksApiService.GetUserAccount(
+                userId, $"Bearer {token}",
+                cancellationToken);
 
-            return View();
+            return View(userAccount);
         }
 
         public IActionResult Privacy()

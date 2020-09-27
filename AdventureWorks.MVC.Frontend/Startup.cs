@@ -1,6 +1,7 @@
 using System;
 using System.IdentityModel.Tokens.Jwt;
 using AdventureWorks.Client;
+using AdventureWorks.Identity.Client;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -8,7 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using RestEase.HttpClientFactory;
-
+//todo Clean this mess up...
 namespace AdventureWorks.MVC.FrontEnd
 {
     public class Startup
@@ -55,6 +56,7 @@ namespace AdventureWorks.MVC.FrontEnd
                 });
             
             services.AddRestEaseClient<IAdventureWorksApiService>("http://localhost:5001/");
+            services.AddRestEaseClient<IAdventureWorksIdentityApiService>("http://localhost:5000/");
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -99,7 +101,6 @@ namespace AdventureWorks.MVC.FrontEnd
             }
         }
 
-        //  Read comments in https://docs.microsoft.com/en-us/aspnet/core/security/samesite?view=aspnetcore-3.1
         public bool DisallowsSameSiteNone(string userAgent)
         {
             // Check if a null or empty string has been passed in, since this

@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AdventureWorks.Client\AdventureWorks.Client.csproj" />
+    <ProjectReference Include="..\AdventureWorks.Identity.Client\AdventureWorks.Identity.Client.csproj" />
   </ItemGroup>
 
 </Project>

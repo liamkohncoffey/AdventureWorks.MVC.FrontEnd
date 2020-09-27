@@ -1,32 +1,15 @@
-﻿@using Microsoft.AspNetCore.Authentication
-@{
-    ViewData["Title"] = "Home Page";
-}
+﻿@model AdventureWorks.Domain.Response.PersonResponse
+
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Welcome @Model.FullName </h1>
 
-    
-<h2>Claims</h2>
+    <h3>Emails</h3>
+    <dl>
+        @foreach (var email in @Model.Emails)
+        {
+            <dt>@email.Email</dt>
+        }
+    </dl>
 
-<dl>
-    @foreach (var claim in User.Claims)
-    {
-        <dt>@claim.Type</dt>
-        <dd>@claim.Value</dd>
-    }
-</dl>
-
-<h2>Properties</h2>
-
-<dl>
-    @foreach (var prop in (await Context.AuthenticateAsync()).Properties.Items)
-    {
-        <dt>@prop.Key</dt>
-        <dd>@prop.Value</dd>
-    }
-</dl>
-    
-    
 </div>
